@@ -80,7 +80,7 @@ module.exports = {
         links: {
           post: 'https://github.com/yblmmen/.github.io',
           github: 'https://github.com/yblmmen/.github.io',
-          demo: 'https://superb-piroshki-842649.netlify.app/,
+          demo: 'https://superb-piroshki-842649.netlify.app/',
         },
       },
     ],
