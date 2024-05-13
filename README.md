@@ -1,5 +1,5 @@
 <h1 align="center">
-  Zoomkoding Gatsby Blog
+  hyunwoo's tech note
 </h1>
 
 <p align="center">
@@ -10,9 +10,9 @@
   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="contributions welcome" />
 </p>
 
-**Demo Websites**: [**English**](https://zoomkoding.netlify.app) | [**Korean**](https://www.zoomkoding.com)
+**Demo Websites**: [**English**](https://superb-piroshki-842649.netlify.app) | [**Korean**](https://superb-piroshki-842649.netlify.app)
 
-[**English README.md**](https://github.com/zoomkoding/zoomkoding-gatsby-blog/blob/master/README.en.md)
+[**English README.md**](https://superb-piroshki-842649.netlify.app)
 
 ## 👋 소개
 
@@ -21,7 +21,7 @@
 
 블로그 테마가 맘에 드셨다면 아래 과정을 통해 자신의 블로그를 만들어보시길 바랍니다!
 
-> 혹시 만드시는 과정에서 궁금하신 점이나 어려움이 있으시다면 [이슈](https://github.com/zoomKoding/zoomkoding-gatsby-blog/issues/new)를 통해 문의 남겨주세요!  
+> 혹시 만드시는 과정에서 궁금하신 점이나 어려움이 있으시다면 [이슈](https://github.com/yblmmen/.github.io)를 통해 문의 남겨주세요!  
 > ⭐️는 블로그 운영에 큰 힘이 됩니다!😊
 
 <a href="https://star-history.com/#zoomkoding/zoomkoding-gatsby-blog&Date">
@@ -106,7 +106,7 @@ ogImage: '/og-image.png', // 공유할 때 보이는 미리보기 이미지로 '
 ```js
 comments: {
     utterances: {
-        repo: '' // zoomkoding/zoomkoding-gatsby-blog
+        repo: '' / superb-piroshki-842649.netlify.app
     },
 }
 
@@ -199,8 +199,8 @@ index.md 파일의 상단에는 아래와 같이 emoji, title, date, author, tag
 ---
 emoji: 🧢
 title: Getting Started
-date: '2021-03-22 23:00:00'
-author: 줌코딩
+date: '2024-05-21 23:00:00'
+author: 임현우
 tags: tutorial
 categories: tutorial
 ---
@@ -223,7 +223,7 @@ categories: tutorial
 
 ### 💡 버그 리포트 & 문의
 
-궁금하신 점이 있으시다면 [이슈](https://github.com/zoomKoding/zoomkoding-gatsby-blog/issues/new)로 남겨주시면 최대한 빠르게 답변 드리도록 하겠습니다!🙋‍♂️
+궁금하신 점이 있으시다면 [이슈](https://github.com/yblmmen/.github.io)로 남겨주시면 최대한 빠르게 답변 드리도록 하겠습니다!🙋‍♂️
 
 > 🤔 혹시 특정 기능이 없어서 테마 사용을 망설이시거나 제안하고 싶으신 기능이 있으시다면,  
-> 👉 [여기](https://github.com/zoomKoding/zoomkoding-gatsby-blog/issues/40)에 댓글 남겨주세요! 적극적으로 반영하겠습니다 :)
+> 👉 [여기](https://github.com/yblmmen/.github.io)에 댓글 남겨주세요! 적극적으로 반영하겠습니다 :)
