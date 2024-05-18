@@ -11,10 +11,10 @@ module.exports = {
   },
   ga: '0', // Google Analytics Tracking ID
   author: {
-    name: `임현우`,
+    name: `블로그`,
     bio: {
-      role: `엔지니어`,
-      description: ['사람에 가치를 두는', '능동적으로 일하는', '이로운 것을 만드는'],
+      role: `NetOps Tech`,
+      description: ['Network', 'Cloud', 'NetOps'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
