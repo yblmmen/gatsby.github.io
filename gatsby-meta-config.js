@@ -13,7 +13,7 @@ module.exports = {
   author: {
     name: `블로그`,
     bio: {
-      role: `NetOps Tech`,
+      role: `New Technology`,
       description: ['Network', 'Cloud', 'NetOps'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
