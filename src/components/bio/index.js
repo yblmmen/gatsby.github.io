@@ -12,9 +12,9 @@ function Bio({ author, language = 'ko' }) {
       {language === 'ko' ? (
         <div className="introduction korean">
           <p className="title">
-            <br />
-            <ReactRotatingText items={bio.description} />
-            <br />
+        <br />
+            # <ReactRotatingText items={bio.description} />
+            # <br />
             {bio.role} <strong>{name}</strong>
             <br />
           </p>
