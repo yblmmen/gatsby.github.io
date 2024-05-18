@@ -11,9 +11,9 @@ module.exports = {
   },
   ga: '0', // Google Analytics Tracking ID
   author: {
-    name: `Blog`,
+    name: `Tech Note`,
     bio: {
-      role: `NetOps Tech`,
+      role: `NetOps`,
       # description: ['Network', 'Cloud', 'NetOps'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
