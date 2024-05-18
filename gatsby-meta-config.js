@@ -14,7 +14,7 @@ module.exports = {
     name: `Tech Note`,
     bio: {
       role: `NetOps`,
-      # description: ['Network', 'Cloud', 'NetOps'],
+      description: ['Network', 'Cloud', 'NetOps'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
