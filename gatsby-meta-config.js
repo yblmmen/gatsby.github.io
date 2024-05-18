@@ -6,7 +6,7 @@ module.exports = {
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
-      repo: ``, // `zoomkoding/zoomkoding-gatsby-blog`,
+      repo: ``, // `yblmmen/gatsby.github.io`,
     },
   },
   ga: '0', // Google Analytics Tracking ID
@@ -43,12 +43,12 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        date: '2021.02 ~',
+        date: '2024.05 ~',
         activity: '네트워크 클라우드 인프라',
         links: {
           post: '/gatsby-starter-zoomkoding-introduction',
-          github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
-          demo: 'https://www.zoomkoding.com',
+          github: 'https://github.com/yblmmen/gatsby.github.io',
+          demo: 'https://superb-piroshki-842649.netlify.app/',
         },
       },
     ],
