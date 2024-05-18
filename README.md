@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="contributions welcome" />
 </p>
 
-**Demo Websites**: [**English**](https://superb-piroshki-842649.netlify.app) | [**Korean**](https://superb-piroshki-842649.netlify.app)
+**Demo Websites**: [**Korean**](https://superb-piroshki-842649.netlify.app)
 
 [**English README.md**](https://superb-piroshki-842649.netlify.app)
 
