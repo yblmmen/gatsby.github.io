@@ -11,10 +11,10 @@ module.exports = {
   },
   ga: '0', // Google Analytics Tracking ID
   author: {
-    name: `블로그`,
+    name: `Blog`,
     bio: {
-      role: `New Technology`,
-      description: ['Network', 'Cloud', 'NetOps'],
+      role: `NetOps Tech`,
+      # description: ['Network', 'Cloud', 'NetOps'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
